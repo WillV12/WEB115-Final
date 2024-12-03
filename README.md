@@ -1,31 +1,21 @@
 # WEB115-Final
-Final project for the waketeck WEB 115 class
-        <div id="Monday" style="width: 150px; outline: 2px Solid;float:left; margin:10px">
-            <h1>Monday:</h1>
-        </div>
+- Final project for the waketeck WEB 115 class
+- Will Vanderploeg
+- WEB 115
+- 2801
 
-        <div id="Tuesday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Tuesday:</h1>
-        </div>
-            
-        <div id="Wenesday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Wenesday:</h1>
+# Install
+- Click the install and download as zip
+- Find the file and unzip
+- Open in vscode (Make sure you have live server installed)
+    - if not, it can be found in the extensions tab
+- Right Click the finalProject.html and select "open with live server"
 
-        </div>
 
-        <div id="Thursday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Thursday:</h1>
-        </div>
-
-        <div id="Friday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Friday:</h1>
-        </div>
-
-        <div id="Saturday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Saturday:</h1>
-        </div>
-
-        <div id="Sunday" style="width: 150px;outline: 2px solid;float:left; margin:10px">
-            <h1>Sunday:</h1>
-        </div>
-    </div>
+# How To Use
+- Enter your name, email, and all meals you want
+- Will not work without a proper email
+- click submit
+- Meal plan will open in a new window
+- click "Print/Download" to open the print screen
+- Click the "Clear Planner" button on the original page to close the planner page

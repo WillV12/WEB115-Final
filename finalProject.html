@@ -5,9 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WEB-115 Final Project</title>
     <script src="projectJS.js" defer></script>
+    <style>
+        body {
+         margin: 0;
+         display: flex;
+         flex-direction: column;
+         padding: 20px;
+         text-align: center;
+         align-items: center;   
+        }
+    </style>
+    <img src="Perfectly.png" style="height: 400px; width: 100% ;object-fit: fill;">
 </head>
 <body>
-    <img src="Perfectly.png" style="height: 400px; width: 100% ;object-fit: fill;">
+
     <div id="leftcolumn" style="width: 300px ; outline: 2px solid black; margin: auto;">
         <h2>Input</h2>
         <form id="inputForm">
@@ -36,9 +47,10 @@
             <input type="text" id="snack2"><br>
 
             <label for="Dinner">Dinner:</label>
-            <input type="text" id="dinner"><br>
+            <input type="text" id="dinner"><br><br><br>
 
-            <button type="submit">
+            <button type="submit">Submit</button>
+            <button type="button" id="reset">Clear Planner</button>
         </form>
     </div>
 
